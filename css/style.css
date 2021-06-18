@@ -1034,12 +1034,12 @@ ol {
 }
 
 .about__pic__item {
-  height: 290px;
+  height: 400px;
   margin-right: -10px;
   margin-bottom: 20px;
 }
 .about__pic__item.about__pic__item--large {
-  height: 600px;
+  height: 450px;
 }
 
 .about__text {
